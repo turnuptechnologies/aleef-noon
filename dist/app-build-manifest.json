@@ -1,0 +1,56 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/page.css",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/Rent/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Rent/page.css",
+      "static/chunks/app/Rent/page.js"
+    ],
+    "/Sell/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Sell/page.js"
+    ],
+    "/off-plan/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/off-plan/page.css",
+      "static/chunks/app/off-plan/page.js"
+    ],
+    "/Blog/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Blog/page.css",
+      "static/chunks/app/Blog/page.js"
+    ],
+    "/Catalog/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Catalog/page.css",
+      "static/chunks/app/Catalog/page.js"
+    ],
+    "/OFFICIALS/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/OFFICIALS/page.css",
+      "static/chunks/app/OFFICIALS/page.js"
+    ],
+    "/Company-profile/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Company-profile/page.js"
+    ]
+  }
+}

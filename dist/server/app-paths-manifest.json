@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/OFFICIALS/page": "app/OFFICIALS/page.js",
+  "/Company-profile/page": "app/Company-profile/page.js",
+  "/off-plan/page": "app/off-plan/page.js",
+  "/Blog/page": "app/Blog/page.js",
+  "/Catalog/page": "app/Catalog/page.js"
+}
